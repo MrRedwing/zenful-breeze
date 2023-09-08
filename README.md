@@ -1,6 +1,4 @@
-# Zenful Breeze
-
-**Dropshipping Website Project**
+# Zenful Breeze - _Dropshipping Website Project_
 
 ## Information behind the project
 
