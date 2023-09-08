@@ -26,5 +26,5 @@
 
 ## Actual Website Link (could be broken by now)
 
-[zenfulbreeze.com](https://www.zenfulbreeze.com)
-[Hosted through Netlify](https://zenfulbreeze.netlify.app/)
+- [zenfulbreeze.com](https://www.zenfulbreeze.com)
+- [Hosted through Netlify](https://zenfulbreeze.netlify.app/)
