@@ -1,0 +1,182 @@
+{
+  "items": [
+    {
+      "image_url": "https://i.imgur.com/sFnmTYu.jpg",
+      "name": "Ultrasonic Humidifier",
+      "text": "Featuring a large water tank and colorful LED lights that change gradually, adding a soothing touch to any room. It helps alleviate dryness and improve air quality. Compact and quiet, it's easy to place on a desk or nightstand.",
+      "description": "The perfect addition to any room in your home. Not only does its stylish, spherical design make it a perfect fit, but the cool, calming mist it releases can help you relax and de-stress. Its compact size makes it easy to place on a desk, nightstand, or shelf, so you can enjoy its benefits wherever you need them most. In addition to promoting relaxation, the humidifier's mist can also support immune health. Upgrade your home's atmosphere and your well-being with the spherical Mini Aromatherapy Humidifier.",
+      "price": 35,
+      "original_price": 45,
+      "type": "Matte White",
+      "id": "ba145f93-1745-4f6d-b9f6-a62ecafa4632",
+      "options": [
+        {
+          "type": "Matte White",
+          "image_urls": [
+            "https://i.imgur.com/sFnmTYu.jpg",
+            "https://i.imgur.com/rL1q0To.jpg",
+            "https://i.imgur.com/wWnm1aq.jpg",
+            "https://i.imgur.com/znatLq8.jpg",
+            "https://i.imgur.com/fUeqTpI.jpg"
+          ],
+          "item_id": "price_1NCXmAHcjYaajbSB5TJE1jF6"
+        },
+        {
+          "type": "Matte Pink",
+          "image_urls": [
+            "https://i.imgur.com/sFnmTYu.jpg",
+            "https://i.imgur.com/OqXljof.jpg",
+            "https://i.imgur.com/wWnm1aq.jpg",
+            "https://i.imgur.com/znatLq8.jpg",
+            "https://i.imgur.com/fUeqTpI.jpg"
+          ],
+          "item_id": "price_1NCXmFHcjYaajbSBr1zUa3WO"
+        },
+        {
+          "type": "Matte Black",
+          "image_urls": [
+            "https://i.imgur.com/sFnmTYu.jpg",
+            "https://i.imgur.com/6wkVCt2.jpg",
+            "https://i.imgur.com/wWnm1aq.jpg",
+            "https://i.imgur.com/znatLq8.jpg",
+            "https://i.imgur.com/fUeqTpI.jpg"
+          ],
+          "item_id": "price_1NCXm5HcjYaajbSBSZR1nivF"
+        }
+      ]
+    },
+
+    {
+      "image_url": "https://i.imgur.com/B1tQ6QO.jpg",
+      "name": "Nano Humidifier",
+      "text": "Find relaxation and relief. The Nano Humidifier features a variety of LED lights and has a sleek, compact design that fits easily into any room.",
+      "description": "Find relaxation and relief from soothing, humid air with the Nano Humidifier, featuring a built-in atmospheric lamp. Its cool mist function helps soothe dry skin and respiratory issues, creating a comfortable and soothing atmosphere for relaxation. The atmospheric lamp adds a touch of ambiance to any space, making it the perfect choice for anyone looking to unwind after a long day. It comes in white, cyan, and pink.",
+      "price": 25,
+      "original_price": 40,
+      "type": "White",
+      "id": "ac0f6ea0-e22c-11ed-b5ea-0242ac120002",
+      "options": [
+        {
+          "type": "White",
+          "image_urls": [
+            "https://i.imgur.com/B1tQ6QO.jpg",
+            "https://i.imgur.com/mUQ5FDc.jpg",
+            "https://i.imgur.com/YZvXBGK.jpg",
+            "https://i.imgur.com/vjPBe62.jpg",
+            "https://i.imgur.com/HzwZ7Ms.jpg",
+            "https://i.imgur.com/io8EZ2T.jpg"
+          ],
+          "item_id": "price_1NCXlzHcjYaajbSB0CDvLnqZ"
+        },
+        {
+          "type": "Pink",
+          "image_urls": [
+            "https://i.imgur.com/B1tQ6QO.jpg",
+            "https://i.imgur.com/9drmkPl.jpg",
+            "https://i.imgur.com/P5BbGWD.jpg",
+            "https://i.imgur.com/YZvXBGK.jpg",
+            "https://i.imgur.com/vjPBe62.jpg",
+            "https://i.imgur.com/io8EZ2T.jpg"
+          ],
+          "item_id": "price_1NCXltHcjYaajbSBcrsdU67e"
+        },
+        {
+          "type": "Cyan",
+          "image_urls": [
+            "https://i.imgur.com/B1tQ6QO.jpg",
+            "https://i.imgur.com/44v7Anp.jpg",
+            "https://i.imgur.com/P5BbGWD.jpg",
+            "https://i.imgur.com/YZvXBGK.jpg",
+            "https://i.imgur.com/vjPBe62.jpg",
+            "https://i.imgur.com/io8EZ2T.jpg"
+          ],
+          "item_id": "price_1NCXloHcjYaajbSBYXRpdbkz"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.imgur.com/sSG8M1h.jpg",
+      "name": "Home Humivase",
+      "text": "Fits into any aesthetic. Humivase's cooling steam promotes relaxation and immune health in the comfort of your own home.",
+      "description": "The perfect addition to any room in your home. Not only does its stylish, spherical design make it a perfect fit, but the cool, calming mist it releases can help you relax and de-stress. Its compact size makes it easy to place on a desk, nightstand, or shelf, so you can enjoy its benefits wherever you need them most. In addition to promoting relaxation, the humidifier's mist can also support immune health. Upgrade your home's atmosphere and your well-being with the spherical Mini Aromatherapy Humidifier.",
+      "price": 25,
+      "original_price": 30,
+      "type": "Oak",
+      "id": "b32bbb4e-e22c-11ed-b5ea-0242ac120002",
+      "options": [
+        {
+          "type": "Oak",
+          "image_urls": [
+            "https://i.imgur.com/sSG8M1h.jpg",
+            "https://i.imgur.com/Zs3bX1A.jpg",
+            "https://i.imgur.com/pv7M89J.jpg",
+            "https://i.imgur.com/B1M9y3o.jpg"
+          ],
+          "item_id": "price_1NCXliHcjYaajbSBP36mMdoF"
+        },
+        {
+          "type": "Dark Oak",
+          "image_urls": [
+            "https://i.imgur.com/sSG8M1h.jpg",
+            "https://i.imgur.com/0WcpEKf.jpg",
+            "https://i.imgur.com/iabXBYR.jpg",
+            "https://i.imgur.com/B1M9y3o.jpg"
+          ],
+          "item_id": "price_1NCXlcHcjYaajbSB7ovbtZCr"
+        }
+      ]
+    },
+    {
+      "image_url": "https://i.imgur.com/iHtcxUG.jpg",
+      "name": "Aromatherapy Humidifier",
+      "text": "The Aromatherapy's cooling steam de-stresses your body and strengthens your immune health. All while staying stylish and true to your home's decor.",
+      "description": "The perfect addition to any room in your home. Not only does its stylish, spherical design make it a perfect fit, but the cool, calming mist it releases can help you relax and de-stress. Its compact size makes it easy to place on a desk, nightstand, or shelf, so you can enjoy its benefits wherever you need them most. In addition to promoting relaxation, the humidifier's mist can also support immune health. Upgrade your home's atmosphere and your well-being with the spherical Mini Aromatherapy Humidifier.",
+      "price": 20,
+      "original_price": 35,
+      "type": "White",
+      "id": "81058334-e22c-11ed-b5ea-0242ac120002",
+      "options": [
+        {
+          "type": "Marbled White",
+          "image_urls": [
+            "https://i.imgur.com/iHtcxUG.jpg",
+            "https://i.imgur.com/MjBgD2l.jpg",
+            "https://i.imgur.com/VE6JKU9.jpg",
+            "https://i.imgur.com/XBd40l5.jpg"
+          ],
+          "item_id": "price_1NCXlYHcjYaajbSBb1I3GCBl"
+        },
+        {
+          "type": "Matte Black",
+          "image_urls": [
+            "https://i.imgur.com/iHtcxUG.jpg",
+            "https://i.imgur.com/7jHOCTk.jpg",
+            "https://i.imgur.com/VE6JKU9.jpg",
+            "https://i.imgur.com/XBd40l5.jpg"
+          ],
+          "item_id": "price_1NCXlTHcjYaajbSBNFYWw94a"
+        },
+        {
+          "type": "Applewood",
+          "image_urls": [
+            "https://i.imgur.com/iHtcxUG.jpg",
+            "https://i.imgur.com/uw3CMZN.jpg",
+            "https://i.imgur.com/VE6JKU9.jpg",
+            "https://i.imgur.com/XBd40l5.jpg"
+          ],
+          "item_id": "price_1NCXlMHcjYaajbSBoeYdOOx9"
+        },
+        {
+          "type": "Matte White",
+          "image_urls": [
+            "https://i.imgur.com/iHtcxUG.jpg",
+            "https://i.imgur.com/NdQe8vI.jpg",
+            "https://i.imgur.com/VE6JKU9.jpg",
+            "https://i.imgur.com/XBd40l5.jpg"
+          ],
+          "item_id": "price_1NCXkMHcjYaajbSBSZ2Qhsx9"
+        }
+      ]
+    }
+  ]
+}
