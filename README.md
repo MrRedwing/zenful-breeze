@@ -2,14 +2,12 @@
 
 ## Information behind the project
 
-- Created the summer of 2023
+- Created in the summer of 2023
 - Created using Typescript, React, and Tailwind CSS
 - All listed products can be found on Alibaba / AliExpress
 - Most descriptions created through ChatGPT
 - Working payments through Stripe
 - Hosted on Netlify and Google Domains
-- No backend or database 💪
-- All data hosted on a JSON file (lol)
 
 ## Ways of marketing the brand
 
