@@ -22,7 +22,7 @@
 - No reviews (alarming to consumers)
 - Images were obviously from other sites
 
-## Actual Website Link (could be broken by now)
+## Actual Website Link
 
 - [zenfulbreeze.com](https://www.zenfulbreeze.com)
 - [Hosted through Netlify](https://zenfulbreeze.netlify.app/)
